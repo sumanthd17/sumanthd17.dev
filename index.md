@@ -11,7 +11,7 @@ May 2019 - July 2019
 - Developed Deep Learning models for Object Detection and Recognition that automates the survey process by Road Transport Authorities
 - Developed end to end solution for automating the survey process
 - Created and Trained Object Detection Networks for higher accuracy and lower latency
-- Created Android Appliations for real-time detections and visualizations
+- Created Android Appliation for real-time detections and visualizations
 
 
 ---
