@@ -1,35 +1,27 @@
-## Portfolio
+## Work Experience 
 
----
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
-
+### Data Engineer Intern at Tech9
+January 2020 - Current
+- Developed Multi-Class Classification Models for Fintech Company
+- Created Visualization Dashboards with Dash
+- Created custom Docker Containers and hosted them as End-Points on AWS
+ 
+#### ML Engineer Intern at Definitics Software Solutions
+May 2019 - July 2019
+- Developed Deep Learning models for Object Detection and Recognition that automates the survey process by Road Transport Authorities
+- Developed end to end solution for automating the survey process
+- Created and Trained Object Detection Networks for higher accuracy and lower latency
+- Created Android Appliations for real-time detections and visualizations
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+## Technical Skills
+- **Languages**: Python, C++, Java, SQL, Matlab
+- **Frameworks**: Pytorch, Keras, Tensorflow, Pandas, Numpy, Sklearn, Matplotlib, nltk
+- **Technologies**: Bash, Git, UNIX, Google Cloud, AWS
+  
+---
+## Certifications
+
+- [Deep Learning Specialization](https://www.coursera.org/account/accomplishments/specialization/PYEDU9NDWFU9)
+- [Convolutional Neural Networks in TensorFlow](https://www.coursera.org/account/accomplishments/verify/GWBUUYMGVQW8)
