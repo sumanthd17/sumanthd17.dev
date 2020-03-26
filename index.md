@@ -5,6 +5,10 @@ January 2020 - Current
 - Developed Multi-Class Classification Models for Fintech Company
 - Created Visualization Dashboards with Dash
 - Created custom Docker Containers and hosted them as End-Points on AWS
+
+- Developed Classification Models for Media Company
+- Created crawlers for acquiring data
+- Carried out EDA and pointed out valuable insights
  
 #### ML Engineer Intern at Definitics Software Solutions
 May 2019 - July 2019
