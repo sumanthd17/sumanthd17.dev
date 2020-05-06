@@ -7,7 +7,7 @@ January 2020 - Current
 - Created custom Docker Containers and hosted them as End-Points on AWS
 
 - Developed Classification Models for Media Company
-- Created crawlers for acquiring data
+- Created parallelized web crawlers for acquiring data
 - Carried out EDA and pointed out valuable insights
  
 #### ML Engineer Intern at Definitics Software Solutions
