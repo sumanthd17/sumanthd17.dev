@@ -1,7 +1,10 @@
 ## Work Experience 
 
+### Data Science Research Intern at Swiggy Applied Research
+July 2020 - Ongoing
+
 ### Data Engineer Intern at Tech9
-January 2020 - Current
+January 2020 - July 2020
 - Developed Multi-Class Classification Models for Fintech Company
 - Created Visualization Dashboards with Dash
 - Created custom Docker Containers and hosted them as End-Points on AWS
