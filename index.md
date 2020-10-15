@@ -1,7 +1,16 @@
 ## Work Experience 
 
+### Project Associate at Robert Bosch Center for Data Science and AI
+October 2020 - Ongoing
+ - Post Baccalaureate Fellow under Dr. Mitesh Khapra and Dr. Pratyush Kumar
+ - Working on Natural Language Processing focused on cross-lingual learning
+ - [RBCDSAI](https://rbcdsai.iitm.ac.in/)
+
 ### Data Science Research Intern at Swiggy Applied Research
-July 2020 - Ongoing
+July 2020 - September 2020
+ - Worked on Named Entity Recognition for chat data
+ - Created custom tool on AWS Groundtruth for NER Annotation
+ - Responsible for ideation and experiment design
 
 ### Data Engineer Intern at Tech9
 January 2020 - July 2020
