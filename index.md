@@ -1,9 +1,9 @@
 ## Work Experience 
 
-### Project Associate at Robert Bosch Center for Data Science and AI
+### Research Fellow at [RBCDSAI](https://rbcdsai.iitm.ac.in/), IIT Madras
 October 2020 - Ongoing
  - Post Baccalaureate Fellow under Dr. Mitesh Khapra and Dr. Pratyush Kumar
- - Working on Natural Language Processing focused on cross-lingual learning
+ - Working on Natural Language Processing focused on multi-lingual learning
  - [RBCDSAI](https://rbcdsai.iitm.ac.in/)
 
 ### Data Science Research Intern at Swiggy Applied Research
@@ -33,7 +33,7 @@ May 2019 - July 2019
 ---
 ## Technical Skills
 - **Languages**: Python, C++, Java, SQL, Matlab
-- **Frameworks**: Pytorch, Keras, Tensorflow, Pandas, Numpy, Sklearn, Matplotlib, nltk
+- **Frameworks**: Pytorch, Keras, Tensorflow, Pandas, Numpy, Sklearn, Matplotlib, nltk, pytorch-lightning
 - **Technologies**: Bash, Git, UNIX, Google Cloud, AWS
   
 ---
