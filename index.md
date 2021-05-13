@@ -5,25 +5,28 @@ October 2020 - Ongoing
  - Advised by Dr. Mitesh Khapra and Dr. Pratyush Kumar
  - [RBCDSAI](https://rbcdsai.iitm.ac.in/people/sumanth-doddapaneni/)
 
- 
+---
+
 ## Publications
   - [2021] Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages, [arXiv](https://arxiv.org/abs/2104.05596)
   - [2021] Bitions@ DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for offence Detection in Dravidian Languages, [PDF](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.42/)
 
+---
 
 ## Past Work Experience 
 
 ### Data Science Research Intern at Swiggy Applied Research
-July 2020 - September 2020
+ - July 2020 - September 2020
 <details><summary>Responsibilities</summary>
  - Worked on Named Entity Recognition for chat data
  - Created custom tool on AWS Groundtruth for NER Annotation
  - Responsible for ideation and experiment design
 </details>
 
+<br>
 
 ### Data Engineer Intern at Tech9
-January 2020 - July 2020
+ - January 2020 - July 2020
 <details><summary>Responsibilities</summary>
 - Developed Multi-Class Classification Models for Fintech Company
 - Created Visualization Dashboards with Dash
@@ -33,9 +36,10 @@ January 2020 - July 2020
 - Carried out EDA and pointed out valuable insights
 </details>
 
+<br>
 
 ### ML Engineer Intern at Definitics Software Solutions
-May 2019 - July 2019
+ - May 2019 - July 2019
 <details><summary>Responsibilities</summary>
 - Developed Deep Learning models for Object Detection and Recognition that automates the survey process by Road Transport Authorities
 - Developed end to end solution for automating the survey process
