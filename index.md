@@ -6,7 +6,7 @@ October 2020 - Ongoing
  - [RBCDSAI](https://rbcdsai.iitm.ac.in/people/sumanth-doddapaneni/)
 
  
- ## Publications
+## Publications
   - [2021] Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages, [arXiv](https://arxiv.org/abs/2104.05596)
   - [2021] Bitions@ DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for offence Detection in Dravidian Languages, [PDF](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.42/)
 
@@ -21,7 +21,6 @@ July 2020 - September 2020
  - Responsible for ideation and experiment design
 </details>
 
-<br>
 
 ### Data Engineer Intern at Tech9
 January 2020 - July 2020
@@ -33,8 +32,7 @@ January 2020 - July 2020
 - Created parallelized web crawlers for acquiring data
 - Carried out EDA and pointed out valuable insights
 </details>
- 
-<br>
+
 
 ### ML Engineer Intern at Definitics Software Solutions
 May 2019 - July 2019
