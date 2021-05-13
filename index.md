@@ -41,9 +41,11 @@ May 2019 - July 2019
 
 ## Education
 ### Indian Institute of Technology, Madras, 2021
+January 2021 - Ongoing
   - CS6910
   - CS6741
-### Indian Institute of Information Technology, Sri City, 2016-20
+### Indian Institute of Information Technology, Sri City
+August 2016 - May 2020
   - Bachelor of Technology, Electronics and Communication Engineering 
 
 
