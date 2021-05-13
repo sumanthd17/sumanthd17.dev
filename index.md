@@ -1,38 +1,62 @@
-## Work Experience 
-
 ### Research Fellow at [RBCDSAI](https://rbcdsai.iitm.ac.in/), IIT Madras
 October 2020 - Ongoing
- - Post Baccalaureate Fellow under Dr. Mitesh Khapra and Dr. Pratyush Kumar
  - Working on Natural Language Processing focused on multi-lingual learning
- - [RBCDSAI](https://rbcdsai.iitm.ac.in/)
+ - Woring on Machine Translation for focus in Indian Languages
+ - Advised by Dr. Mitesh Khapra and Dr. Pratyush Kumar
+ - [RBCDSAI](https://rbcdsai.iitm.ac.in/people/sumanth-doddapaneni/)
+
+ 
+ ## Publications
+  - [2021] Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages, [arXiv](https://arxiv.org/abs/2104.05596)
+  - [2021] Bitions@ DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for offence Detection in Dravidian Languages, [PDF](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.42/)
+
+
+## Past Work Experience 
 
 ### Data Science Research Intern at Swiggy Applied Research
 July 2020 - September 2020
+<details><summary>Responsibilities</summary>
  - Worked on Named Entity Recognition for chat data
  - Created custom tool on AWS Groundtruth for NER Annotation
  - Responsible for ideation and experiment design
+</details>
+
+<br>
 
 ### Data Engineer Intern at Tech9
 January 2020 - July 2020
+<details><summary>Responsibilities</summary>
 - Developed Multi-Class Classification Models for Fintech Company
 - Created Visualization Dashboards with Dash
 - Created custom Docker Containers and hosted them as End-Points on AWS
-
 - Developed Classification Models for Media Company
 - Created parallelized web crawlers for acquiring data
 - Carried out EDA and pointed out valuable insights
+</details>
  
-#### ML Engineer Intern at Definitics Software Solutions
+<br>
+
+### ML Engineer Intern at Definitics Software Solutions
 May 2019 - July 2019
+<details><summary>Responsibilities</summary>
 - Developed Deep Learning models for Object Detection and Recognition that automates the survey process by Road Transport Authorities
 - Developed end to end solution for automating the survey process
 - Created and Trained Object Detection Networks for higher accuracy and lower latency
 - Created Android Appliation for real-time detections and visualizations
+</details>
+
+---
+## Education
+- Indian Institute of Technology, Madras, 2021
+    - CS6910
+    - CS6741
+- Indian Institute of Information Technology, Sri City, 2016-20
+    - Bachelor of Technology, Electronics and Communication Engineering 
 
 
 ---
 ## Technical Skills
-- **Languages**: Python, C++, Java, SQL, Matlab
+- **Languages**: Python, C++, Java, SQL, Matlab, Julia
 - **Frameworks**: Pytorch, Keras, Tensorflow, Pandas, Numpy, Sklearn, Matplotlib, nltk, pytorch-lightning
 - **Technologies**: Bash, Git, UNIX, Google Cloud, AWS
   
