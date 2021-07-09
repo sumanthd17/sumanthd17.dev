@@ -1,13 +1,14 @@
 ### Research Fellow at [RBCDSAI](https://rbcdsai.iitm.ac.in/), IIT Madras
 October 2020 - Ongoing
  - Working on Natural Language Processing focused on multi-lingual learning
- - Woring on Machine Translation for focus in Indian Languages
+ - Woring on Machine Translation with focus on Indian Languages
  - Advised by Dr. Mitesh Khapra and Dr. Pratyush Kumar
  - [RBCDSAI](https://rbcdsai.iitm.ac.in/people/sumanth-doddapaneni/)
 
 ---
 
 ## Publications
+  - [2021] A Primer on Pretrained Multilingual Language Models, [arXiv](https://arxiv.org/abs/2107.00676)
   - [2021] Samanantar: The Largest Publicly Available Parallel Corpora Collection for 11 Indic Languages, [arXiv](https://arxiv.org/abs/2104.05596)
   - [2021] Bitions@ DravidianLangTech-EACL2021: Ensemble of Multilingual Language Models with Pseudo Labeling for offence Detection in Dravidian Languages, [PDF](https://www.aclweb.org/anthology/2021.dravidianlangtech-1.42/)
 
@@ -41,10 +42,10 @@ May 2019 - July 2019
 
 ## Education
 
-### Indian Institute of Technology, Madras, 2021
+### Indian Institute of Technology, Madras
 January 2021 - Ongoing
-  - CS6910
-  - CS6741
+  - CS6910 - Fundamentals of Deep Learning
+  - CS6741 - Statistical Foundations of Data Science 
 
 ### Indian Institute of Information Technology, Sri City
 August 2016 - May 2020
